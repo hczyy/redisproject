@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>lettuce</module>
+        <module>jedis</module>
     </modules>
 
     <name>redis-project</name>
